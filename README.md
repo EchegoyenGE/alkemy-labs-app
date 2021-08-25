@@ -15,8 +15,8 @@
 - jwt-simple
 
 #### Database and ORM
--MySQL
--Sequelize
+- MySQL
+- Sequelize
 
 
-###End
+### End
